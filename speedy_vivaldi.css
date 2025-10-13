@@ -1,0 +1,74 @@
+/*
+My personal CSS customization for Vivaldi Browser 
+(should maybe work on other chromium-based browsers too O-O)
+
+Main styles:
+  - Transparent, glass-like bars and panels 
+  - Dark glass for OmniDropdown
+  - Notes for further customizations
+
+p/s: - "border:none" is used for some properties because i like the seamless look
+if you prefer an organized, dissected look u can just simply remove it
+     - transparency for the footer needs to use "!important" on 
+     any changes u bound to make
+*/
+
+/* Mainbar (search field excluded) transparency */
+.mainbar {
+  border: none;
+  background: transparent;
+}
+
+.color-behind-tabs-off .mainbar {
+  background: transparent;
+}
+
+.mainbar .toolbar-mainbar {
+  background: transparent;
+}
+
+/* Bookmark bar transparency */
+.bookmark-bar {
+  border: none;
+  background: transparent;
+}
+
+/* Bookmark button transparency */
+.bookmark-bar button {
+  background: transparent;
+  border-radius: 25px;
+}
+
+.color-behind-tabs-off .bookmark-bar button {
+  background: transparent;
+}
+
+/* Searchfield-Dropdown transparency (50% black opacity + blur) */
+.OmniDropdown {
+  background: rgba(0, 0, 0, 0.5);
+  /* first 3 numbers are for red, green, blue
+  last number is for opacity 0.5 is 50%*/
+  backdrop-filter: blur(50px);
+}
+
+/* Panel transparency with 10% black overlay */
+#panels-container {
+  background: rgba(0, 0, 0, 0.1) !important;
+  /* "!important" is required for this to work */
+
+  backdrop-filter: blur(25px);
+}
+
+.toolbar-panel {
+  background: transparent;
+}
+
+.toolbar-statusbar {
+  background: transparent;
+}
+
+/* Footer transparency */
+#footer {
+  background: transparent !important;
+  border: none !important;
+}
