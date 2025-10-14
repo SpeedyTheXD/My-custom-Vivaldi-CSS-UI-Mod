@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/46ed9066-339f-46d2-84c0-37878fd1db64" alt="Vivaldi Icon" width="100">
+  <img src="https://github.com/user-attachments/assets/46ed9066-339f-46d2-84c0-37878fd1db64" alt="Vivaldi Icon" width="125">
+  <img src="https://github.com/user-attachments/assets/5905c4f6-5fff-4419-8123-4b89929047e7" alt="My Icon" width="125">
 </p>
 
 <h1 align="center">Speedy's CSS Mod</h1>
@@ -25,17 +26,19 @@
 
 - A simple **CSS mod** i made to make ___Vivaldi___ looks even better than it already is
 - Transparent/Glass-like aesthetic
-<img width="1920" height="1025" alt="image" src="https://github.com/user-attachments/assets/efed974c-8f7d-4874-9fad-c19b382dae8b" />
-<img width="1920" height="1025" alt="image" src="https://github.com/user-attachments/assets/8b09cb8e-ae1d-473b-9cd7-9a9fda57010a" />
 
+<h3 align="center">
+Overview
+</h3>
 
-![hide_desktop_icon_thumb](https://github.com/user-attachments/assets/a0fcdd3d-c1e7-42bc-96a7-afaf60a26910)
+| Before | After |
+|-|-|
+| ![Before](https://github.com/user-attachments/assets/efed974c-8f7d-4874-9fad-c19b382dae8b) | ![After](https://github.com/user-attachments/assets/8b09cb8e-ae1d-473b-9cd7-9a9fda57010a) |
 
 ## Table of Contents
-- [Introduction](#-about)
-- [Features](#-features)
-- [Installation](#installation-methods)
-- [Video Demonstration](#video)
+- [Introduction](#-about) 🚀
+- [Features](#-features) ⭐
+- [Installation](#installation-methods) ⚙️
 
 ## ⭐ Features
 
@@ -58,13 +61,3 @@
    git clone https://github.com/SpeedyTheXD/Hide-Desktop-Icons.git
    
 2. Download the latest version from the **[Releases Page](https://github.com/SpeedyTheXD/Hide-Desktop-Icons/releases)**.
-
-<h2 id="video">📹 Video Demonstration</h2>
-
-- A video on **how to download** and use the **program**.
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=k7LQGCrIFio">
-    <img src="https://github.com/user-attachments/assets/a0fcdd3d-c1e7-42bc-96a7-afaf60a26910" alt="Watch the video" width="800">
-  </a>
-</p>
