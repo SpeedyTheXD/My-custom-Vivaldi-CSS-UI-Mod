@@ -42,17 +42,20 @@ Overview
 
 ## ⭐ Features
 
-- **GUI** to register the key
-  
-  ![image](https://github.com/user-attachments/assets/b6ec9b7c-57bc-44de-b515-f5f7698c2792)
+- **Transparent** top bar
 
-- **Program icon** are shown in the ***system tray*** for easy termination
+  <img width="1913" height="203" alt="image" src="https://github.com/user-attachments/assets/14261778-e198-4c1d-b631-1a4b8d7aea2f" />
 
-  ![image](https://github.com/user-attachments/assets/1735ca12-9bae-4bd1-a372-c6d7fc058ebf)
 
-  ![image](https://github.com/user-attachments/assets/a130763b-3a92-4d18-abf3-efda1484d62c)
+- **Transparent** side panel and footer 
 
-- Lightweight *(i think)*
+  <img width="151" height="887" alt="image" src="https://github.com/user-attachments/assets/6b2e2983-61fd-439a-9832-969c3f3ad6b2" />
+
+  <img width="1918" height="77" alt="image" src="https://github.com/user-attachments/assets/ded1042e-43dc-4d8c-8e24-dfa83e5c66c1" />
+
+- ***Glass-like*** Search Dropdown
+
+  <img width="1532" height="436" alt="image" src="https://github.com/user-attachments/assets/148b9021-6e5c-484b-865e-0351c87f0cba" />
 
 <h2 id="installation-methods">⚙️ Installation Methods</h2>
 
