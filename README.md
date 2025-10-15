@@ -67,6 +67,10 @@ Overview
 
 2. Type `vivaldi://experiments` in the URL bar and check **Allow CSS modifications**
 
+  <img width="1491" height="535" alt="image" src="https://github.com/user-attachments/assets/2be655b6-b423-49eb-b94f-f76149d33bc1" />
+
 3. Go to **Vivaldi Settings > Appearance > Custom UI Modifications** and select the CSS file you downloaded
+
+  <img width="1332" height="508" alt="image" src="https://github.com/user-attachments/assets/8255423c-72da-40e9-b599-f63a771c1b9e" />
 
 4. Restart Vivaldi to apply the changes
