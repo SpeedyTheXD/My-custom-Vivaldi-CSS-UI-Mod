@@ -60,7 +60,13 @@ Overview
 <h2 id="installation-methods">⚙️ Installation Methods</h2>
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/SpeedyTheXD/Hide-Desktop-Icons.git
-   
-2. Download the latest version from the **[Releases Page](https://github.com/SpeedyTheXD/Hide-Desktop-Icons/releases)**.
+```bash
+   git clone https://github.com/SpeedyTheXD/My-custom-Vivaldi-CSS-UI-Mod.git
+```
+   or download the latest version from the **[Releases Page](https://github.com/SpeedyTheXD/My-custom-Vivaldi-CSS-UI-Mod/releases)**.
+
+2. Type `vivaldi://experiments` in the URL bar and check **Allow CSS modifications**
+
+3. Go to **Vivaldi Settings > Appearance > Custom UI Modifications** and select the CSS file you downloaded
+
+4. Restart Vivaldi to apply the changes
