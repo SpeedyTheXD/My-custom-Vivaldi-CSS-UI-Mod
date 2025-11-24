@@ -33,7 +33,7 @@ Overview
 
 | Before | After |
 |-|-|
-| ![Before](https://github.com/user-attachments/assets/efed974c-8f7d-4874-9fad-c19b382dae8b) | ![After](https://github.com/user-attachments/assets/8b09cb8e-ae1d-473b-9cd7-9a9fda57010a) |
+| ![Before](https://github.com/user-attachments/assets/8b09cb8e-ae1d-473b-9cd7-9a9fda57010a) | ![After](https://github.com/user-attachments/assets/efed974c-8f7d-4874-9fad-c19b382dae8b) |
 
 ## 📑 Table of Contents
 - [Introduction](#-about) 🚀
